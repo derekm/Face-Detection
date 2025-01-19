@@ -12,7 +12,7 @@ Streaming webcam on desktop computer or mobile, there is function to switch back
 ## Installing
 Clone this repository to your local computer
 ``` bash
-git https://github.com/bensonruan/Face-Detection.git
+git clone https://github.com/bensonruan/Face-Detection.git
 ```
 Point your localhost to the cloned root directory
 
